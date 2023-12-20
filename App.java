@@ -2,7 +2,8 @@ import java.math.BigInteger;
 
 public class App {
     public static void main(String [] args) {
-        System.out.println(meth(2479, 2));
+        // System.out.println(meth(2479, 2));
+        System.out.println(48%7);
     }
 
     public static int meth(int a, int b) {
